@@ -44,7 +44,6 @@ class Categoria extends Resource
         return [
             ID::make(__('ID'), 'id')->sortable(),
             Text::make(__('Descripción'), 'descripcion')->sortable(),
-            HasMany::make()
         ];
     }
 
