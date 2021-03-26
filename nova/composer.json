@@ -17,7 +17,6 @@
         "brick/money": "^0.4.2",
         "cakephp/chronos": "^1.0|^2.0",
         "doctrine/dbal": "^2.9",
-        "illuminate/support": "^7.0",
         "laravel/ui": "^2.0",
         "moontoast/math": "^1.1",
         "spatie/once": "^1.1 | ^2.0",
